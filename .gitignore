@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+*.egg
+build/
+dist/
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Environment
+.env
+*.env
+
+# SAM2 model checkpoints (downloaded automatically)
+segmentation/checkpoints/
+checkpoints/
+*.pth
+*.pt
+
+# Model weights
+models/
+
+# Data IO
+data_io/
+
+# Output
+output/
+outputs/
+results/
+visualizations/
+
+# Progress logs (contains file paths)
+progress_log.json
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

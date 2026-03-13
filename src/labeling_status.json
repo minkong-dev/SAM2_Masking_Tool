@@ -1,0 +1,7 @@
+{
+  "mode": "SAM",
+  "split_mode": "entire",
+  "brush_size": 10,
+  "negative_expand": 10,
+  "simplify_strength": 0
+}
